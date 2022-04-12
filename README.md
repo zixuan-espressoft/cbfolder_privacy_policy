@@ -76,7 +76,7 @@ We use this information to provide features of Our Service, to improve and custo
 
 You can enable or disable access to this information at any time, through Your Device settings.
 
-#### Collection of contact list
+### Collection of contact list
 
 Your contact list will be uploaded by the app to import more CB to your account, but the contact list will not be saved in the company's server. It will be removed once the import CB process has completed.
 
