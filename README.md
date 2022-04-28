@@ -78,7 +78,7 @@ You can enable or disable access to this information at any time, through Your D
 
 ### Collection of contact list
 
-CBFolder transmits your contact list to our server in order to import CB from your contacts. Your contact list will not be stored in our server or any other places.
+CBFolder transmits your contact list to the server in order to import CB from your contacts. Your contact list will not be stored in the server or any other places.
 
 
 # Use of Your Personal Data
